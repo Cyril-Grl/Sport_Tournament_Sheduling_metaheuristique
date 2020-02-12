@@ -82,7 +82,9 @@ Pour vérifier la validité d'une période nous utiliserons la fonction `periode
 
 # Execution du programme
 
-Si pypy est installé vous pouvez executer les programmes avec pour les recherche locale, cependant à cause d'un probleme d'inclusion de matplotlib vous ne pourrez pas lancer avec les algorithmes genetiques.
+Si pypy est installé vous pouvez executer les programmes de recherche locale avec, cependant à cause d'un probleme d'installation de matplotlib avec pypy vous ne pourrez pas lancer avec les algorithmes genetiques.
+
+Pypy à l'avantage d'être beaucoup plus rapide que python de base.
 
 ## Requirements
 
